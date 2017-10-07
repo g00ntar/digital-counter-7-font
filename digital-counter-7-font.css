@@ -1,9 +1,9 @@
 @font-face {
-    font-family: 'Digital-Counter-7';
-    src:url('https://github.com/g00ntar/digital-counter-7-font/raw/master/Digital-Counter-7.ttf.woff') format('woff'),
-        url('https://github.com/g00ntar/digital-counter-7-font/raw/master/Digital-Counter-7.ttf.svg#Digital-Counter-7') format('svg'),
-        url('https://github.com/g00ntar/digital-counter-7-font/raw/master/Digital-Counter-7.ttf'),
-        url('https://github.com/g00ntar/digital-counter-7-font/raw/master/Digital-Counter-7.ttf.eot?#iefix') format('embedded-opentype'); 
-    font-weight: normal;
-    font-style: normal;
+  font-family: 'Digital-Counter-7';
+  src:url('https://raw.githubusercontent.com/g00ntar/digital-counter-7-font/master/Digital-Counter-7.ttf.woff') format('woff'),
+      url('https://raw.githubusercontent.com/g00ntar/digital-counter-7-font/master/Digital-Counter-7.ttf.svg#Digital-Counter-7') format('svg'),
+      url('https://raw.githubusercontent.com/g00ntar/digital-counter-7-font/master/Digital-Counter-7.ttf'),
+      url('https://raw.githubusercontent.com/g00ntar/digital-counter-7-font/master/Digital-Counter-7.ttf.eot?#iefix') format('embedded-opentype'); 
+  font-weight: normal;
+  font-style: normal;
 }
